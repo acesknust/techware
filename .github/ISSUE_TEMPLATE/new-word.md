@@ -9,7 +9,7 @@ assignees: ''
 
 **Sample**    
 Filename: API.md.     
-Description:    
+Description:  It is an acronym for Application Programming Interface, which is a software intermediary that allows two applications to talk each other.  
 Live Example(Optional): https://dr5hn.github.io/countries-states-cities-database/.    
 Parts Of Speech: Noun.    
-Contributor: @machugram
+Contributor: Twitter: [@heymachu](https://twitter.com/heymachu) Github: [@machugram](https://github.com/machugram)
