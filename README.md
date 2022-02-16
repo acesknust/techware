@@ -1,5 +1,5 @@
 # techwords
-This repository hosts the `#TechWordOfTheWeek` words that the @AcesKnust Twitter account uses   
+This repository generates the `#TechWordOfTheWeek` words that the @AcesKnust Twitter account uses   
 **GuideLines**:    
 To contribute to the project, kindly create an issue with the name of the file as the word and a very good description.
 
