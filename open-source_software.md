@@ -6,4 +6,4 @@ Just for information, there's the notion that they are more secure since they mo
 ```
 Live Example: The Python programming language is open-source.  
 Parts Of Speech: Noun.  
-Contributor: Twitter : [@trevenue44](https://twitter.com/trevenue44). Github: [@trevenue44](https://github.com/@trevenue44)
+Contributor: Twitter : [@trevenue44](https://twitter.com/trevenue44). Github: [@trevenue44](https://github.com/trevenue44)
