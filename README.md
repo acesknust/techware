@@ -1,8 +1,10 @@
 # techwords
 This repository generates the `#TechWordOfTheWeek` words that the @AcesKnust Twitter account uses   
 **GuideLines**:    
-To contribute to the project, kindly create an issue with the name of the file as the word and a very good description.
-
+To contribute to the project, kindly add a new file with the name of the file as the word and a very good description. Use the steps:
+- Add file 
+- Create new file
+- Add and complete the details
 
 **Sample**    
 Filename: API.md.     
