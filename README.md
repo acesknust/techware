@@ -13,7 +13,7 @@ Filename: API.md.
 Description:    
 Live Example(Optional): https://dr5hn.github.io/countries-states-cities-database/.    
 Parts Of Speech: Noun.    
-Contributor: Twitter: [@heymachu](https://twitter.com/heymachu) Github: [@machugram](https://github.com/machugram)
+Contributor: Twitter: [@acesknust](https://twitter.com/acesknust) Github: [@acesknust](https://github.com/acesknust)
 
 
 
