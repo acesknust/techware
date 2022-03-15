@@ -1,3 +1,4 @@
+Please if you are here to submit a word, use the pull request. Read the README.md for more info
 ---
 name: New Word
 about: This custom template is to aid you in making a request to add to the techwave
