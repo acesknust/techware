@@ -1,0 +1,9 @@
+**Cache** :
+```
+A cache is a high-speed data storage layer which stores a subset of data, typically transient in nature,
+so that future requests for that data are served up faster than is possible by accessing the data's primary storage location
+```
+
+     https://en.wikipedia.org/wiki/Cache_(computing)
+     Part of Speech: Noun, Verb
+		 Example: 256 Kb secondary cache
